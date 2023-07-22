@@ -1,8 +1,5 @@
 # weatherreport
 # Weather Forecasting 
-
-![Weather Forecasting](weather_forecasting.jpg)
-
 ## Introduction
 
 Weather Forecasting Website is a web application that provides accurate and up-to-date weather forecasts for various locations using the OpenWeather API. It allows users to access live weather conditions, day-to-day weather forecasting, and hourly weather updates for their selected locations. The website is developed using HTML, CSS, and JavaScript, and it utilizes API keys to fetch weather data for different metro cities.
